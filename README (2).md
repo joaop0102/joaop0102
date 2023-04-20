@@ -10,18 +10,16 @@
 </p>
 
 <H3> SOBRE MIM </H3>
-<p>Eu sou um estudante de programação e atualmente estou cursando Desenvolvimento de Sistemas na ETEC,sou bem empenhado e apaixonado por tecnologia, com o objetivo de me tornar um desenvolvedor Full Stack. 
-
-Dedico grande parte do meu tempo livre para estudar programação e aprofundar meus conhecimentos em linguagens de programação como Kotlin, Java e JavaScript, além de tecnologias como HTML, CSS e frameworks como React. 
-
-
-Minha dedicação e comprometimento com meus projetos de programação são admiráveis e minha paixão pela tecnologia é inspiradora. Estou sempre em busca de novos desafios e oportunidades de aprendizado, e minha determinação em me tornar um programador habilidoso certamente me levará a grandes realizações em minha carreira como desenvolvedor Full Stack.</p>
+<p>Eu sou um aluno da Etec ZL, onde estou cursando o Desenvolvimento de Sistema(DS).
+  
+Acabo tirando parte do meu dia para estudar programação, seja com exercícios ou criação de algum site ou programa só para treinar ou por simples hobby, tento ter conhecimentos de todas as linguagens que há em meu curso, mas foco em PHP, Python, Java, Kotlin, HTML, C++, CSS e Javascript, tendo um conhecimento bem bom de HTML, CSS e Java.  
+Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e também pretendo começar adicionar as linguagens Javascript e C++ nessa agenda de estudos frequentes, já que são linguagens que eu acho muito interessante em aprender.</p>
 
 
 <div align="center">
-  <a href="https://github.com/GABRIELMESSIASDASILVA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GABRIELMESSIASDASILVA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELMESSIASDASILVA&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/joaop0102">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaop0102&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop0102&layout=compact&langs_count=7&theme=dark"/>
 </div>
                                           
         
@@ -104,14 +102,8 @@ Minha dedicação e comprometimento com meus projetos de programação são admi
 <div> 
   <h2 align="center">Contato</h2>
   <p align="center">
-  <a href="https://instagram.com/gabrielmessias816" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/Gabriel-Messias-b38207253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/joaop5373" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-    
-  <h4 align="center">Hey você chegou até aqui! Gostaria de agradecer por visitar o meu perfil.</h4>
-Obrigado por visitar meu perfil! Sinta-se livre para me contatar pelo LinkedIn ou e-mail para qualquer pergunta ou discussão sobre tecnologia.
-Estou sempre aberto a novas conexões e oportunidades de aprendizado. Vamos trocar ideias e conhecimentos em breve!
- </p>
 </div>
 
 
