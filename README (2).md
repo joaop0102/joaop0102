@@ -36,7 +36,6 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" width="40" height="40"/>
      <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 </p>
