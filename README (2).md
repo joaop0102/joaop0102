@@ -6,7 +6,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Foto do Gabriel" height="200"/>
+  <img src="https://icons8.com.br/icon/v551nqGeHhGn/github.png" alt="Foto do Joao Pedro" height="200"/>
 </p>
 
 <H3> SOBRE MIM </H3>
