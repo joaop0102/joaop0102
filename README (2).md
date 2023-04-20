@@ -38,19 +38,8 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" width="40" height="40"/>
      <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 </p>
-  
-<!-- Habilidade sendo adquirida -->
-  <div>
-<h2 align="center">Habilidade sendo adquirida/Linguagem por diversão</h2>
-    <p align="center">
-  
-<img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
-
-
-  <p align="center"> Estou aprendendo a programar com Arduíno</p>
-    </p>
-  </div>
      
 <div> 
   <h2 align="center">Contato</h2>
