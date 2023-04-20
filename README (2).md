@@ -1,6 +1,6 @@
 <!-- Olá mensagem de apresentação com animação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+em+formação+🚀&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo;Joao+Pedro+Silva+de+O&center=true&width=380&height=45">
 </p>
 
 
