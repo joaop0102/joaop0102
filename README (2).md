@@ -6,7 +6,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="icons8-github.gif" alt="Foto do Joao Pedro" height="200"/>
+  <img src="icon-github11.png" alt="Foto do Joao Pedro" height="200"/>
 </p>
 
 <H3> SOBRE MIM </H3>
