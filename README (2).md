@@ -26,24 +26,24 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
 <!-- Ícones de linguagens -->
 <h2 align="center">Linguagens aprendidas</h2>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="icons8-html-5-64.png"/> 
+  <img src="icons-css3-48.png"/>
 </p>
 
 <h2 align="center">Linguagens que estou aprendendo</h2>
 <p align="center">
   <img src="icons8-php-logo-40.png"/> 
   <img src="icons8-java-48.png"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img src="icons--Kotlin-50.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-     <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
+     <img src="icons8-python-94.png"/>
+  <img src="icons8-c++-50.png"/>
 </p>
      
 <div> 
   <h2 align="center">Contato</h2>
   <p align="center">
-  <a href="https://instagram.com/joaop5373" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/joaop5373" target="_blank"><img src="icons8-instagram-50.png"></a>
     
 </div>
 
