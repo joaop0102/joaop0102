@@ -24,13 +24,13 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
                                           
         
 <!-- Ícones de linguagens -->
-<h2 align="center">Linguagens aprendidas</h2>
+<h2 align="center">Linguagens que eu aprendi</h2>
 <p align="center">
   <img src="icons8-html-5-64.png"/> 
   <img src="icons8-css3-48.png"/>
 </p>
 
-<h2 align="center">Linguagens que estou aprendendo</h2>
+<h2 align="center">Linguagens que está em fase de aprendizado</h2>
 <p align="center">
   <img src="icons8-php-logo-40.png"/> 
   <img src="icons8-java-48.png"/>
