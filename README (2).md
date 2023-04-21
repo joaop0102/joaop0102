@@ -27,14 +27,14 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
 <h2 align="center">Linguagens aprendidas</h2>
 <p align="center">
   <img src="icons8-html-5-64.png"/> 
-  <img src="icons-css3-48.png"/>
+  <img src="icons8-css3-48.png"/>
 </p>
 
 <h2 align="center">Linguagens que estou aprendendo</h2>
 <p align="center">
   <img src="icons8-php-logo-40.png"/> 
   <img src="icons8-java-48.png"/>
-  <img src="icons--Kotlin-50.png"/>
+  <img src="icons--kotlin-50.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
      <img src="icons8-python-94.png"/>
   <img src="icons8-c++-50.png"/>
