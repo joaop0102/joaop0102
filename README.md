@@ -43,7 +43,7 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
 <div> 
   <h2 align="center">Contato</h2>
   <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-s-172b69274/" target="_blank"><img src="icons8-instagram-50.png"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-s-172b69274/" target="_blank"><img src="img-linkedin.png"></a>
     
 </div>
 
