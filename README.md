@@ -6,7 +6,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="github-500.png" alt="Foto do Joao Pedro" height="200"/>
+  <img src="icons/github-500.png" alt="Foto do Joao Pedro" height="200"/>
 </p>
 
 <div align="center">
@@ -23,30 +23,30 @@
   <img src="icons/css3.png"/>
   <img src="icons/php.png"/> 
   <img src="icons/java.png"/>
-  <img src="kotlin.png"/>
-  <img src="javascript.png"/>
-  <img src="python.png"/>
-  <img src="c.png"/>
+  <img src="icons/kotlin.png"/>
+  <img src="icons/javascript.png"/>
+  <img src="icons/python.png"/>
+  <img src="icons/c.png"/>
   <img src="icons/mysql.png"/>
 </p>
 
 <h2 align="center">Frameworks</h2>
 <p align="center">
-  <img src="icons/laravel.png"/>
+  <img src="icons/laravel.png" height="50"/>
   <img src="icons/flask.png">
   <img src="icons/bootstrap.png">
   <img src="icons/reactjs.png">
-  <img src="icons/jetpackcompose.png">
+  <img src="icons/jetpackcompose.png" height="50">
 </p>
 
 <h2 align="center">Ferramentas</h2>
 <p align="center">
   <img src="icons/vs-code.png"/>
   <img src="icons/git.png"/>
-  <img src="icons/uml.png"/>
+  <img src="icons/uml.png" height="50"/>
   <img src="icons/android-studio.png"/>
   <img src="icons/arduino-ide.png"/>
-  <img src="icons/composer.png"/>
+  <img src="icons/composer.png" height="50"/>
 </p>
      
 <div> 
