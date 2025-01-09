@@ -19,7 +19,7 @@
 <!-- Ícones de linguagens -->
 <h2 align="center">Linguagens</h2>
 <p align="center">
-  <img src="icons/html5.png"/> 
+  <img src="icons/html5.png" height="100"/> 
   <img src="icons/css3.png"/>
   <img src="icons/php.png"/> 
   <img src="icons/java.png"/>
