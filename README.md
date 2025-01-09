@@ -17,20 +17,20 @@
                                           
         
 <!-- Ícones de linguagens -->
-<h2 align="center">Linguagens que eu aprendi</h2>
+<h2 align="center">Linguagens</h2>
 <p align="center">
   <img src="html5.png"/> 
   <img src="css3.png"/>
+    <img src="php.png"/> 
+  <img src="java.png"/>
+  <img src="kotlin.png"/>
+  <img src="javascript.png"/>
+  <img src="python.png"/>
+  <img src="c.png"/>
 </p>
 
 <h2 align="center">Linguagens que está em fase de aprendizado</h2>
 <p align="center">
-  <img src="php.png"/> 
-  <img src="java.png"/>
-  <img src="kotlin.png"/>
-  <img src="javascript.png"/>
-     <img src="python.png"/>
-  <img src="c.png"/>
 </p>
      
 <div> 
