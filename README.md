@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo;Meu+nome+é;Joao+Pedro+Silva+de+Oliveira&center=true&width=380&height=45">
 </p>
 
-
-<!-- Foto -->
-<p align="center">
-  <img src="icons/github-500.png" alt="Foto do Joao Pedro" height="200"/>
-</p>
-
 <div align="center">
   <a href="https://github.com/joaop0102">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaop0102&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
