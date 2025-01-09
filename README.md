@@ -19,7 +19,7 @@
 <!-- Ícones de linguagens -->
 <h2 align="center">Linguagens</h2>
 <p align="center">
-  <img src="icons/html5.png" height="100"/> 
+  <img src="icons/html5.png"/> 
   <img src="icons/css3.png"/>
   <img src="icons/php.png"/> 
   <img src="icons/java.png"/>
@@ -46,7 +46,7 @@
   <img src="icons/uml.png"/>
   <img src="icons/android-studio.png"/>
   <img src="icons/arduino-ide.png"/>
-  <img src="icons/composer.png"/>
+  <img src="icons/composer.png" height="50"/>
 </p>
      
 <div> 
