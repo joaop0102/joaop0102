@@ -23,7 +23,7 @@
   <img src="icons/css3.png"/>
   <img src="icons/php.png"/> 
   <img src="icons/java.png"/>
-  <img src="icons/kotlin.png"/>
+  <img src="icons/kotlin.png" height="50"/>
   <img src="icons/javascript.png"/>
   <img src="icons/python.png"/>
   <img src="icons/c.png"/>
