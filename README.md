@@ -6,7 +6,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="github-500.png" alt="Foto do Joao Pedro" height="200"/>
+  <img src="icons/github-500.png" alt="Foto do Joao Pedro" height="200"/>
 </p>
 
 <div align="center">
