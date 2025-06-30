@@ -1,6 +1,6 @@
 <!-- Olá mensagem de apresentação com animação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+good+morning;good+afternoon;good+evening;I'm+JP&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+JP&center=true&width=380&height=45">
 </p>
 
 <h2 align="left">Hi 👋! My name is João Pedro and I'm a developer from system</h2>
